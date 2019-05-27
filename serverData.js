@@ -1,0 +1,52 @@
+var data=[
+	
+	{title:'金星秀停播' ,search:47732,hisSearch:42824},
+	{title:'擦擦' ,search:5432,hisSearch:42454},
+	{title:'我哥那个' ,search:47732,hisSearch:555},
+	{title:'v问问' ,search:4545432,hisSearch:545484},
+	{title:'额VB挖哦' ,search:47732,hisSearch:4255884},
+	{title:'微服务' ,search:54474452,hisSearch:4452884},
+	{title:'未达人气人情味' ,search:47732,hisSearch:42884},
+	{title:'k8ik7n7' ,search:55532,hisSearch:42884},
+	{title:'二次' ,search:47732,hisSearch:42884},
+	{title:'二恶播' ,search:5732,hisSearch:42884},
+	{title:'金星v文v播' ,search:54232,hisSearch:42884},
+	{title:'VR个人',search:2732,hisSearch:42884},
+	{title:'儿我VRv' ,search:77322,hisSearch:42884},
+	{title:'saa' ,search:472732,hisSearch:42884},
+	{title:'qq' ,search:42732,hisSearch:42884},
+	{title:'ww' ,search:42232,hisSearch:42884},
+	{title:'ewf' ,search:222,hisSearch:42884},
+	{title:'fwd' ,search:555,hisSearch:42884},
+	{title:'出生地' ,search:553452,hisSearch:42884},
+	{title:'胜多负少 ' ,search:55732,hisSearch:42884},
+	{title:'vs大V' ,search:47432,hisSearch:42884},
+	{title:'v出生地' ,search:454,hisSearch:42884},
+
+	{title:'水电费卫栖梧' ,search:662,hisSearch:42884},
+	{title:'密码金' ,search:4532,hisSearch:42884},
+	{title:'lpl9 ' ,search:66732,hisSearch:42884},
+	{title:'黁 播' ,search:47732,hisSearch:42884},
+	{title:'黁' ,search:234,hisSearch:42884},
+	{title:'unyielding' ,search:447432,hisSearch:42884},
+	{title:' 体育' ,search:4324,hisSearch:42884},
+	{title:'欢迎欢迎' ,search:44444,hisSearch:42884},
+	{title:'金红叶碧桃' ,search:44,hisSearch:42884},
+	{title:'额鹅鹅鹅' ,search:47732,hisSearch:42884},
+	{title:'如果通过' ,search:47732,hisSearch:42884},
+
+	{title:'特别特别' ,search:47732,hisSearch:42884},
+	{title:'特别认同' ,search:47732,hisSearch:42884},
+	{title:'日本人' ,search:47732,hisSearch:42884},
+	{title:'宫保兔肉' ,search:47732,hisSearch:42884},
+	{title:'金星秀停播' ,search:47732,hisSearch:42884},
+	{title:'金星秀停播' ,search:47732,hisSearch:42884},
+	{title:'金星秀停播' ,search:47732,hisSearch:42884},
+	{title:'金星秀停播' ,search:47732,hisSearch:42884},
+	{title:'金星秀停播' ,search:47732,hisSearch:42884},
+	{title:'金星秀停播' ,search:47732,hisSearch:42884},
+	{title:'金星秀停播' ,search:47732,hisSearch:42884} 
+
+	  
+
+]
